@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CashLog</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="finish_app"> CashLogApp을 종료 하시 겠습니까 ?</string>
+    <string name="answer_yes"> 네</string>
+    <string name="answer_no"> 아니오</string>
+    <string name="info_year"> 년</string>
+    <string name="info_month">월 </string>
+    <string name="info_day">일 </string>
+    <string name="detail_text">상세내역 </string>
+    <string name="detail_button">상세보기 </string>
+    <string name="new_button">추가하기 </string>
+    <string name="sum_textview">총합: </string>
+    <string name="input_textview">입력창 </string>
+    <string name="txt_use_log">사용내역 :</string>
+    <string name="txt_use_cash">  금액:</string>
+    <string name="txt_solt">분류   :</string>
+    
+    <string name="spinner_food">식비</string>
+    <string name="spinner_transport">교통비</string>
+    <string name="spinner_asif">군것질</string>
+    <string name="spinner_date">데이트비</string>
+    <string name="spinner_suddeny">뜬금비</string>
+    <string name="spinner_neww">추가하기</string>
+     <string name="spinner_noitem">미분류</string>
+
+    <string name="say_yes">예</string>
+    <string name="say_no">아니오</string>
+    <string name="input_new_solt_menu">새항목을 입력 하시오.</string>
+    
+    <string name="input_no_one">더이상 항목을 추가 할수 없습니다. </string>
+     <string name="input_correctly">바른 항목을 눌러 주세요. </string>
+     
+    
+</resources>
